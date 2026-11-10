@@ -20,7 +20,7 @@
 - `@huayanYu`，朋友们叫我**小锅盖**，坐标成都，一名自由职业的 Java 后端开发。
 - 从 2017 年起给 [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) 提交代码，现在是 [苞米豆（baomidou）](https://github.com/baomidou) 组织成员，也参与 [dynamic-datasource](https://github.com/baomidou/dynamic-datasource) 及其文档、示例仓库。
 - 日常在 ORM 内核、SQL 解析、多版本兼容和构建/测试体系之间来回切换：写功能、修 bug、review PR、折腾 CI。
-- 2026 年至今在 GitHub 上留下了 220+ 次提交、18 个 PR（数据统计至 2026-11）。
+- 习惯用可复现的用例和回归测试来讨论问题。
 
 ## 🔭 最近在忙
 
@@ -51,9 +51,12 @@ ORM 内核与 SQL 解析的正确性、多版本 JDK / Spring Boot 的长期兼�
 
 ## 📊 一点数据
 
+- 2026 年至今：**224 次提交 · 18 个 PR · 9 个 issue**（统计至 2026-11-10）
+- 主要贡献仓库：[baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus)、[baomidou/dynamic-datasource](https://github.com/baomidou/dynamic-datasource) 及其文档/示例仓库
+- 2017 年第一次给 MyBatis-Plus 提交代码，到现在还在和 ORM、CI 打交道
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huayanYu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=huayanYu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="42%" />
+  <img src="https://streak-stats.demolab.com/?user=huayanYu&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
